@@ -1,0 +1,7 @@
+{
+  "name": "apptdeaionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
